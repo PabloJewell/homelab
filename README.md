@@ -2,7 +2,7 @@
 
 A home server built from an old Dell laptop, taken apart and mounted on a shelf. I use it to practise Linux and Windows administration and basic security testing.
 
-![Homelab server](server.jpg)
+![Homelab server](homelab.jpg)
 
 ## Hardware
 - Dell motherboard and screen, mounted on a shelf
