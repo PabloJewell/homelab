@@ -15,5 +15,5 @@ A home server built from an old Dell laptop, taken apart and mounted on a shelf.
 - **Backup storage** for the VMs
 
 ## What I learned
-- [One problem you hit and how you fixed it]
-- [Something you'd add next]
+- Network configuration: troubleshooting broken connectivity between the host and VMs
+- Tailscale: set it up for remote access to the lab
